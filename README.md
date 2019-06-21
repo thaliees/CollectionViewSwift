@@ -15,3 +15,6 @@ pod 'MaterialComponents/Cards' (Component Card: https://material.io/develop/ios/
 
 #### Install Pod
 $ pod install
+
+## Project Base.
+Creación de una lista (de tipo CardView) de tecnologías que existen en el ámbito del desarrollo de software.
